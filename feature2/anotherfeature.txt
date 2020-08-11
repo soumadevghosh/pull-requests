@@ -1,0 +1,2 @@
+This file was added to feature2 branch locally
+another line added locally
